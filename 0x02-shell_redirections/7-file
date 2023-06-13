@@ -1,1 +1,2 @@
-git add ../.13-symbolic_link.swp
+#!/bin/bash
+echo "Best School" > \\\\\\\"'\"Best School\"\\'"\\\\\\$\\\?\\\\\\\\\\\\\\\*\:\)
