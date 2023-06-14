@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(printf %o $(($((5#$(echo $WATER | tr '
+perl -lne 'print if $. % 2 ==1'
